@@ -1,2 +1,13 @@
+Lista de reproducción
+https://www.youtube.com/watch?v=oQ4q2CSXP4M&list=PL2Z95CSZ1N4Hhlv70xz0tdr9od6w_PMTX
+
 Link de descarga:
 https://www.microsoft.com/es-es/download/details.aspx?id=58494&culture=es-es&country=es
+
+** Siempre referirse a las opciones que aparecen como rangos (no pestañas)
+
+En el archivo Inmuebles.xlsx aparecen 4 opciones para generar la tabla (2 Metas y 2 tablas)
+La diferencia es que al aparecer como cuadrícula se refiere a un rango almacenado como tabla
+
+https://es.wikipedia.org/wiki/Anexo:Pel%C3%ADculas_con_las_mayores_recaudaciones
+Para limpiar los datos se debe "Agregar columna a partir de los ejemplos" y modificar
