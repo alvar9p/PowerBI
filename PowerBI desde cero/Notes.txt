@@ -11,3 +11,7 @@ La diferencia es que al aparecer como cuadrícula se refiere a un rango almacena
 
 https://es.wikipedia.org/wiki/Anexo:Pel%C3%ADculas_con_las_mayores_recaudaciones
 Para limpiar los datos se debe "Agregar columna a partir de los ejemplos" y modificar
+
+Ejercicio (Video 14) - Generar una base de datos que permita identitificar plenamente:
+1. Equipo con mayor cantidad de campeonatos acumulados.
+2. Sede con mayor cantidad de mundiales realizados.
