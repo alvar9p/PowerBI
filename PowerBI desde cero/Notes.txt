@@ -15,3 +15,13 @@ Para limpiar los datos se debe "Agregar columna a partir de los ejemplos" y modi
 Ejercicio (Video 14) - Generar una base de datos que permita identitificar plenamente:
 1. Equipo con mayor cantidad de campeonatos acumulados.
 2. Sede con mayor cantidad de mundiales realizados.
+
+********** Para convertir valores en atributos (Video 15) **********
+1. Seleccionar las columnas (Shift + ->)
+2. Click en "Transformar"
+3. Click en "Anular dinamización de columnas"
+
+********** Para agrupar valores (Video 16) **********
+1. Click en "Transformar", luego en "Agrupar por"
+2. Traer mas valores desde otros origenes si es necesario
+3. Inicio - Nuevo origen - Carpeta (VMRC)
